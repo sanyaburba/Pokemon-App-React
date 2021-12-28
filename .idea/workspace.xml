@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5585030a-c59e-480c-a710-be50b5616be8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/robots.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +46,7 @@
       <updated>1640512873516</updated>
       <workItem from="1640512875766" duration="2027000" />
       <workItem from="1640518181932" duration="1117000" />
-      <workItem from="1640519331726" duration="16717000" />
+      <workItem from="1640519331726" duration="17109000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1640716630559</created>
