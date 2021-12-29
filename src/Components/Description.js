@@ -15,7 +15,6 @@ const Description = ({
                          posbs4,
                          posbs5,
                          posbs6,
-    evoChain
                      }) => {
     return (
         <div className="desc">
@@ -64,8 +63,6 @@ const Description = ({
                     {pokstat6} : {posbs6}
                 </b>
             </p>
-            <p><b> {evoChain}
-            </b></p>
         </div>
     );
 };
