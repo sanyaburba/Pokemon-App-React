@@ -54,7 +54,6 @@ function App() {
                     bs4={pokemon.stats[3].base_stat}
                     bs5={pokemon.stats[4].base_stat}
                     bs6={pokemon.stats[5].base_stat}
-                    evoChain={pokemon.is_main_series}
 
 
                 />
